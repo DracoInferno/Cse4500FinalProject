@@ -13,5 +13,5 @@ The following **required** features are completed:
 - [ ] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
 
-<img src="images/Daniel Website.png" title='DanielWebsite' width='' alt='DanielWebsite' />
+<img src="images/Daniel Mesones Website.png" title='DanielWebsite' width='' alt='DanielWebsite' />
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
