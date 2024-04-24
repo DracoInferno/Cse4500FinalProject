@@ -12,3 +12,6 @@ The following **required** features are completed:
 - [ ] Create a chart displaying times per user and average (2 pt)
 - [ ] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
+
+<img src="images/Daniel Website.png" title='DanielWebsite' width='' alt='DanielWebsite' />
+<img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
