@@ -8,10 +8,12 @@ Time spent: **1** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Take a screenshot of each member's website and provide a label for each one (1 pt)
-- [ ] Create a chart displaying times per user and average (2 pt)
+- [X] Take a screenshot of each member's website and provide a label for each one (1 pt)
+- [X] Create a chart displaying times per user and average (2 pt)
 - [ ] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
 
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
+<img src="images/Chris Website.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
+<img src="images/Reed Website.png" title='ReedWebsite' width='' alt='ReedWebsite' />
