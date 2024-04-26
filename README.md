@@ -13,9 +13,13 @@ The following **required** features are completed:
 - [ ] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
 
+<p>Daniel Website</p>
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
+<p>Steven Website</p>
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
+<p>Reed Website</p>
 <img src="images/Reed Website.png" title='ReedWebsite' width='' alt='ReedWebsite' />
+<p>Christopher Website</p>
 <img src="images/Christopher Website.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
 
 
