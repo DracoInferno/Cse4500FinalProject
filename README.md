@@ -15,14 +15,12 @@ The following **required** features are completed:
 
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
-<<<<<<< HEAD
-<img src="images/Chris Website.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
 <img src="images/Reed Website.png" title='ReedWebsite' width='' alt='ReedWebsite' />
-=======
+<img src="images/Daniel Mesones Website.png" title='DaninelWebsite' width='' alt='DaneilWebsite' />
+
 
 ## Notes:
 <u1>
   <p>Obtained presence time of 0 seconds on one collaborator's website.</p>
   <p>Brainstormed/developed hypothesis through meeting in Discord.<p>
 <u1>
->>>>>>> 31caccfee3fff1dd008e3435fe30844f62e7c63b
