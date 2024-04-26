@@ -15,7 +15,7 @@ The following **required** features are completed:
 
 <p>Daniel Website</p>
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
-<p>Steven Website</p>
+<p>Steven Website (Best Website)</p>
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
 <p>Reed Website</p>
 <img src="images/Reed Website.png" title='ReedWebsite' width='' alt='ReedWebsite' />
