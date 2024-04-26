@@ -27,4 +27,7 @@ The following **required** features are completed:
 <u1>
   <p>Obtained presence time of 0 seconds on one collaborator's website.</p>
   <p>Brainstormed/developed hypothesis through meeting in Discord.<p>
+  <p>Brainstormed hypothesis statements with every teammate.</p>
+  <p>Created 5th hypothesis based on previously brainstormed hypothesis statements
+     containing best elements from each teammate's hypothesis.</p>
 <u1>
