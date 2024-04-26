@@ -16,7 +16,7 @@ The following **required** features are completed:
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
 <img src="images/Steven Website.png" title='StevenWebsite' width='' alt='StevenWebsite' />
 <img src="images/Reed Website.png" title='ReedWebsite' width='' alt='ReedWebsite' />
-<img src="images/Daniel Mesones Website.png" title='DaninelWebsite' width='' alt='DaneilWebsite' />
+<img src="images/Christopher Website.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
 
 
 ## Notes:
