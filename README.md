@@ -32,4 +32,5 @@ The following **required** features are completed:
   <p>Consulted Professor Quon for further refinement of lab report before submission.</p>
   <p>Added screenshot of Excel Sheet containing all required presence times from all collaborators'
      websites into lab report.</p>
+  <p>Labeled each website with names of each collaborator.</p>
 <u1>
