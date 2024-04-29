@@ -10,7 +10,7 @@ The following **required** features are completed:
 
 - [X] Take a screenshot of each member's website and provide a label for each one (1 pt)
 - [X] Create a chart displaying times per user and average (2 pt)
-- [ ] Devise your hypothesis (2 pt)
+- [X] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
 
 <p>Daniel Website</p>
@@ -26,8 +26,10 @@ The following **required** features are completed:
 ## Notes:
 <u1>
   <p>Obtained presence time of 0 seconds on one collaborator's website.</p>
-  <p>Brainstormed/developed hypothesis through meeting in Discord.<p>
-  <p>Brainstormed hypothesis statements with every teammate.</p>
+  <p>Brainstormed/developed hypothesis through meeting in Discord with every teammate.<p>
   <p>Created 5th hypothesis based on previously brainstormed hypothesis statements
      containing best elements from each teammate's hypothesis.</p>
+  <p>Consulted Professor Quon for further refinement of Lab Report before submission.</p>
+  <p>Added screenshot of Excel Sheet containing all required presence times from all collaborators'
+     website.</p>
 <u1>
