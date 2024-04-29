@@ -29,7 +29,7 @@ The following **required** features are completed:
   <p>Brainstormed/developed hypothesis through meeting in Discord with every teammate.<p>
   <p>Created 5th hypothesis based on previously brainstormed hypothesis statements
      containing best elements from each teammate's hypothesis.</p>
-  <p>Consulted Professor Quon for further refinement of Lab Report before submission.</p>
+  <p>Consulted Professor Quon for further refinement of lab report before submission.</p>
   <p>Added screenshot of Excel Sheet containing all required presence times from all collaborators'
-     website.</p>
+     websites into lab report.</p>
 <u1>
