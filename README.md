@@ -12,6 +12,18 @@ The following **required** features are completed:
 - [X] Create a chart displaying times per user and average (2 pt)
 - [X] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
+      
+Iterative Part of Project
+
+- [X] Include the links of the uploaded files in your report. Every member should have a file uploaded. (2 pt)
+- [X] Metrics - Include descriptions in your report (1 pt)
+- [X] Sample testing - Include descriptions in your report (1 pt)
+- [ ] Take a screenshot of your database at the end of your first and last iterations and include this in your report (2 pt)
+- [ ] Devise your Hypothesis_iteration_1. Include a picture of your website and your hypothesis in your report (0.5 pt)
+- [ ] Devise your Hypothesis_iteration_2. Include a picture of your website and your hypothesis in your report (0.5 pt)
+- [ ] Devise your Hypothesis_iteration_3. Include a picture of your website and your hypothesis in your report (0.5 pt)
+- [ ] How does this average presence time compare with the previous number? Explain why or why not there is a difference. (1.5 pt)
+- [ ] Include the graph and its description in your report. (2 pt)
 
 <p>Daniel Website</p>
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
