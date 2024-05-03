@@ -2,8 +2,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from pymongo.mongo_client import MongoClient
-from pymongo.server_api import ServerApi
-import collections
 from Users import Users1 as user
 
 uri = "mongodb+srv://gemknight1997:InfernoFire1997@cluster0.u0s2mdw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
