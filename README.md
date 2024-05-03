@@ -12,8 +12,9 @@ The following **required** features are completed:
 - [X] Create a chart displaying times per user and average (2 pt)
 - [X] Devise your hypothesis (2 pt)
 - [X] Create a Github repo for the final project (3 pt)
-      
+
 Iterative Part of Project
+Time spent: **6-7** hours spent in total
 
 - [X] Include the links of the uploaded files in your report. Every member should have a file uploaded. (2 pt)
 - [X] Metrics - Include descriptions in your report (1 pt)
