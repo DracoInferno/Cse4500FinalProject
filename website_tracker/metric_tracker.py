@@ -1,13 +1,13 @@
 import time
 from selenium import webdriver
 from pymongo import MongoClient
-from Users import user34 as user
+from Users import user48 as user
 
 uri = "mongodb+srv://gemknight1997:InfernoFire1997@cluster0.u0s2mdw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 client = MongoClient(uri)
 db = client.your_database
-collection = db.metrics  # Change 'metrics' to your actual collection name
+collection = db.iteration_1  # Change 'metrics' to your actual collection name
 
 def main():
     # Initialize browser
@@ -16,30 +16,28 @@ def main():
     # Navigate to your website 
     driver.get("http://localhost:3000/")
 
-    SAMPLE_SIZE = 10
-    count = 0
-
     # Initialize presence time
     start_time = time.time()
-    presence_time = user.userAction(driver)
 
-    # Perform user action
-    # user.userAction(driver)
+    presence_time = start_time
+    user.userAction(driver)
+    current_time = time.time()
 
-    while count < SAMPLE_SIZE:
-        metrics = {
-            "Iteration Number": count + 1,
-            "Control or Test Group": "Control",  # Update this based on your experiment setup
-            "User File Name": "user16",  # Update this with the appropriate user file name
+    presence_time = current_time - start_time 
+    print(f"Presence time: {presence_time} seconds")
+
+    metrics = {
+            "Iteration Number": 1,
+            "Control or Test Group": "Test",  # Update this based on your experiment setup
+            "User File Name": "user48",  # Update this with the appropriate user file name
             "Presence Time (Seconds)": presence_time
         }
 
-        # Insert metrics into the database
-        collection.insert_one(metrics)
+    # Insert metrics into the database
+    collection.insert_one(metrics)
 
-        # Increment count and wait for some time
-        count += 1
-        time.sleep(2)
+    # Increment count and wait for some time
+    time.sleep(2)
 
     # Quit the driver
     driver.quit()
