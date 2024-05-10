@@ -19,12 +19,12 @@ Time spent: **6-7** hours spent in total
 - [X] Include the links of the uploaded files in your report. Every member should have a file uploaded. (2 pt)
 - [X] Metrics - Include descriptions in your report (1 pt)
 - [X] Sample testing - Include descriptions in your report (1 pt)
-- [] Take a screenshot of your database at the end of your first and last iterations and include this in your report (2 pt)
+- [X] Take a screenshot of your database at the end of your first and last iterations and include this in your report (2 pt)
 - [X] Devise your Hypothesis_iteration_1. Include a picture of your website and your hypothesis in your report (0.5 pt)
-- [ ] Devise your Hypothesis_iteration_2. Include a picture of your website and your hypothesis in your report (0.5 pt)
-- [ ] Devise your Hypothesis_iteration_3. Include a picture of your website and your hypothesis in your report (0.5 pt)
-- [ ] How does this average presence time compare with the previous number? Explain why or why not there is a difference. (1.5 pt)
-- [ ] Include the graph and its description in your report. (2 pt)
+- [X] Devise your Hypothesis_iteration_2. Include a picture of your website and your hypothesis in your report (0.5 pt)
+- [X] Devise your Hypothesis_iteration_3. Include a picture of your website and your hypothesis in your report (0.5 pt)
+- [X] How does this average presence time compare with the previous number? Explain why or why not there is a difference. (1.5 pt)
+- [X] Include the graph and its description in your report. (2 pt)
 
 <p>Daniel Website</p>
 <img src="images/Daniel Mesones Website PNG.png" title='DanielWebsite' width='' alt='DanielWebsite' />
@@ -50,4 +50,6 @@ Time spent: **6-7** hours spent in total
   <p>Added screenshot of Excel Sheet containing all required presence times from all collaborators'
      websites into lab report.</p>
   <p>Labeled each website with names of each collaborator.</p>
+  <p>Lost 1 day of work because MongoDB was down for that day.</p>
+  <p>Running all 61 users took up most amount of time for project.</p>
 <u1>
