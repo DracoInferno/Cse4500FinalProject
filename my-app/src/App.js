@@ -6,6 +6,8 @@ import myFrieren from "./images/Frieren.png";
 import myFrom from "./images/FromSoftware.png";
 import myViolet from "./images/Violet.png";
 import myEver from "./images/VioletEvergarden.png";
+import myWick from "./images/Wick.png";
+import sports from "./images/Sports.png";
 
 function App() {
   return (
@@ -39,6 +41,8 @@ function App() {
 
         <img src= {myEver}  alt="Movie" class="Movie"/>
 
+        <img src= {myWick} alt="Movie1" class="Movie"/>
+
         <br></br>
         <p>
             Another thing about me is I love to watch anime and when I have free time I watch it to past the time. 
@@ -63,6 +67,12 @@ function App() {
             If my family and friends invite me to watch the games then I will watch with them but I preffer to watch something else. 
             Same thing with video game I dont like sports games for the same reason. So this is the end of the About Me thank you for reading and have a great day.
         </p>
+
+        <img src= {sports} alt="Movie" class="Movie"/>
+
+        <p>Oh and before I before I end this about me. There is something I want to tell you that if you don't want to call me by my name. 
+          You can call me by a nick name like Steve and not Steven. I know it only one letter but it does make it shorter.</p>
+
         <br></br>
         
         <a href="https://github.com/DracoInferno/Platform-Computing">Get Repo</a>

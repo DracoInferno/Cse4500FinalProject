@@ -36,8 +36,10 @@ Time spent: **6-7** hours spent in total
 <img src="images/Christopher Website.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
 
 <p>Iteration 1 - added word student</p>
-<img src="images/Iteration_1.png" title='ChrisWebsite' width='' alt='ChrisWebsite' />
+<img src="images/Iteration_1.png" title='Iteration_1' width='' alt='Iteration_1' />
 
+<p>Iteration 2 - added more images</p>
+<img src="images/Iteration_2.png" title='Iteration_2' width='' alt='Iteration_2' />
 
 
 ## Notes:

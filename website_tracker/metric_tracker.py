@@ -1,13 +1,13 @@
 import time
 from selenium import webdriver
 from pymongo import MongoClient
-from Users import user48 as user
+from Users import user1 as user
 
 uri = "mongodb+srv://gemknight1997:InfernoFire1997@cluster0.u0s2mdw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 client = MongoClient(uri)
 db = client.your_database
-collection = db.iteration_1  # Change 'metrics' to your actual collection name
+collection = db.iteration_final  # Change 'metrics' to your actual collection name
 
 def main():
     # Initialize browser
@@ -27,9 +27,9 @@ def main():
     print(f"Presence time: {presence_time} seconds")
 
     metrics = {
-            "Iteration Number": 1,
-            "Control or Test Group": "Test",  # Update this based on your experiment setup
-            "User File Name": "user48",  # Update this with the appropriate user file name
+            "Iteration Number": "Last",
+            "Control or Test Group": "Final",  # Update this based on your experiment setup
+            "User File Name": "user1",  # Update this with the appropriate user file name
             "Presence Time (Seconds)": presence_time
         }
 
